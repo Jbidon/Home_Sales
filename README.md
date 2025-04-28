@@ -1,2 +1,2 @@
 # Home_Sales
-Challenge 22
+Home sales analysis using SparkSQL.
